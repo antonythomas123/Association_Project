@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/Association_Project/static/css/main.14e9ce7e.css",
-    "main.js": "/Association_Project/static/js/main.a7165459.js",
-    "static/media/events.jpg": "/Association_Project/static/media/events.cfb1c295384944e8a998.jpg",
-    "static/media/img_1.jpg": "/Association_Project/static/media/img_1.f406550ce6957e6ccff7.jpg",
-    "static/media/img_3.jpg": "/Association_Project/static/media/img_3.756416dc7e2813d5c5d6.jpg",
-    "static/media/img_6.jpg": "/Association_Project/static/media/img_6.cbed77688f84963c9843.jpg",
-    "static/media/img_7.jpg": "/Association_Project/static/media/img_7.4fb0bfdf95bb1ee77f63.jpg",
-    "static/media/img_5.jpg": "/Association_Project/static/media/img_5.bcd042a5200f4192869f.jpg",
-    "static/media/img_2.jpg": "/Association_Project/static/media/img_2.9c4a94e2e0b61cee51e4.jpg",
-    "static/media/img_4.jpg": "/Association_Project/static/media/img_4.087d44ebf29f0451cefb.jpg",
-    "index.html": "/Association_Project/index.html",
-    "main.14e9ce7e.css.map": "/Association_Project/static/css/main.14e9ce7e.css.map",
-    "main.a7165459.js.map": "/Association_Project/static/js/main.a7165459.js.map"
+    "main.css": "/gma-website/static/css/main.79334e73.css",
+    "main.js": "/gma-website/static/js/main.8abc8b57.js",
+    "static/media/logo.png": "/gma-website/static/media/logo.1ebf289145dcab6bd97d.png",
+    "static/media/g3.jpeg": "/gma-website/static/media/g3.a573a950d15c003abc47.jpeg",
+    "static/media/g4.jpeg": "/gma-website/static/media/g4.ea11fba1465afd1a1873.jpeg",
+    "static/media/g6.jpeg": "/gma-website/static/media/g6.83a10e8a1b387ca71cbc.jpeg",
+    "static/media/g5.jpeg": "/gma-website/static/media/g5.e2e536f41858885fc380.jpeg",
+    "static/media/g8.jpeg": "/gma-website/static/media/g8.bb551a7d8c41635b33ba.jpeg",
+    "static/media/g7.jpeg": "/gma-website/static/media/g7.dee51a0dc474468300b7.jpeg",
+    "static/media/g1.jpeg": "/gma-website/static/media/g1.1d091c5668430fc1da18.jpeg",
+    "static/media/cultura-logo.png": "/gma-website/static/media/cultura-logo.7eecbd2f1557b10d491d.png",
+    "static/media/Rowdies-Regular.ttf": "/gma-website/static/media/Rowdies-Regular.c3e51820d6d0195a2ef9.ttf",
+    "static/media/avatar.png": "/gma-website/static/media/avatar.e4982d9c05ff5a185f7e.png",
+    "static/media/kerala-tourism-logo.png": "/gma-website/static/media/kerala-tourism-logo.633b5035e4147cb8da02.png",
+    "index.html": "/gma-website/index.html",
+    "main.79334e73.css.map": "/gma-website/static/css/main.79334e73.css.map",
+    "main.8abc8b57.js.map": "/gma-website/static/js/main.8abc8b57.js.map"
   },
   "entrypoints": [
-    "static/css/main.14e9ce7e.css",
-    "static/js/main.a7165459.js"
+    "static/css/main.79334e73.css",
+    "static/js/main.8abc8b57.js"
   ]
 }
