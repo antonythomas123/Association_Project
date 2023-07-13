@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gma-website/static/css/main.79334e73.css",
-    "main.js": "/gma-website/static/js/main.8abc8b57.js",
-    "static/media/logo.png": "/gma-website/static/media/logo.1ebf289145dcab6bd97d.png",
-    "static/media/g3.jpeg": "/gma-website/static/media/g3.a573a950d15c003abc47.jpeg",
-    "static/media/g4.jpeg": "/gma-website/static/media/g4.ea11fba1465afd1a1873.jpeg",
-    "static/media/g6.jpeg": "/gma-website/static/media/g6.83a10e8a1b387ca71cbc.jpeg",
-    "static/media/g5.jpeg": "/gma-website/static/media/g5.e2e536f41858885fc380.jpeg",
-    "static/media/g8.jpeg": "/gma-website/static/media/g8.bb551a7d8c41635b33ba.jpeg",
-    "static/media/g7.jpeg": "/gma-website/static/media/g7.dee51a0dc474468300b7.jpeg",
-    "static/media/g1.jpeg": "/gma-website/static/media/g1.1d091c5668430fc1da18.jpeg",
-    "static/media/cultura-logo.png": "/gma-website/static/media/cultura-logo.7eecbd2f1557b10d491d.png",
-    "static/media/Rowdies-Regular.ttf": "/gma-website/static/media/Rowdies-Regular.c3e51820d6d0195a2ef9.ttf",
-    "static/media/avatar.png": "/gma-website/static/media/avatar.e4982d9c05ff5a185f7e.png",
-    "static/media/kerala-tourism-logo.png": "/gma-website/static/media/kerala-tourism-logo.633b5035e4147cb8da02.png",
-    "index.html": "/gma-website/index.html",
-    "main.79334e73.css.map": "/gma-website/static/css/main.79334e73.css.map",
-    "main.8abc8b57.js.map": "/gma-website/static/js/main.8abc8b57.js.map"
+    "main.css": "/GMA-website/static/css/main.70032a41.css",
+    "main.js": "/GMA-website/static/js/main.d768182e.js",
+    "static/media/logo.png": "/GMA-website/static/media/logo.1ebf289145dcab6bd97d.png",
+    "static/media/g3.jpeg": "/GMA-website/static/media/g3.a573a950d15c003abc47.jpeg",
+    "static/media/g4.jpeg": "/GMA-website/static/media/g4.ea11fba1465afd1a1873.jpeg",
+    "static/media/g6.jpeg": "/GMA-website/static/media/g6.83a10e8a1b387ca71cbc.jpeg",
+    "static/media/g5.jpeg": "/GMA-website/static/media/g5.e2e536f41858885fc380.jpeg",
+    "static/media/g8.jpeg": "/GMA-website/static/media/g8.bb551a7d8c41635b33ba.jpeg",
+    "static/media/g7.jpeg": "/GMA-website/static/media/g7.dee51a0dc474468300b7.jpeg",
+    "static/media/g1.jpeg": "/GMA-website/static/media/g1.1d091c5668430fc1da18.jpeg",
+    "static/media/cultura-logo.png": "/GMA-website/static/media/cultura-logo.7eecbd2f1557b10d491d.png",
+    "static/media/Rowdies-Regular.ttf": "/GMA-website/static/media/Rowdies-Regular.c3e51820d6d0195a2ef9.ttf",
+    "static/media/avatar.png": "/GMA-website/static/media/avatar.e4982d9c05ff5a185f7e.png",
+    "static/media/kerala-tourism-logo.png": "/GMA-website/static/media/kerala-tourism-logo.633b5035e4147cb8da02.png",
+    "index.html": "/GMA-website/index.html",
+    "main.70032a41.css.map": "/GMA-website/static/css/main.70032a41.css.map",
+    "main.d768182e.js.map": "/GMA-website/static/js/main.d768182e.js.map"
   },
   "entrypoints": [
-    "static/css/main.79334e73.css",
-    "static/js/main.8abc8b57.js"
+    "static/css/main.70032a41.css",
+    "static/js/main.d768182e.js"
   ]
 }
